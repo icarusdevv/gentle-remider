@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gentle Remider</string>
+    <string name="remider_title">Enter a title</string>
+    <string name="remider_description">Enter a description</string>
+</resources>
